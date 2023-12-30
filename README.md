@@ -1,3 +1,5 @@
 # third_project
 This is my third project <br>
-just wait for fourth project
+third project for over<br>
+git hub work on website
+where as git work on system or laptop
