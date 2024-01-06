@@ -25,9 +25,12 @@ v=fun()
 print(v)
 
 
-file=open("C:\Users\Admin\Desktop\mytext.txt")
+"""file=open("C:\Users\Admin\Desktop\mytext.txt")
 file.read()
-file.close()
+file.close()"""
+
+print("above code is not working")
+
 
 
 
